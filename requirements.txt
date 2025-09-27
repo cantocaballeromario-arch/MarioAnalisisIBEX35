@@ -1,9 +1,0 @@
-streamlit
-pandas
-yfinance
-matplotlib
-numpy
-ta
-vaderSentiment
-feedparser
-PyPortfolioOpt
